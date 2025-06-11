@@ -1,0 +1,76 @@
+
+# macOS system files and metadata
+.DS_Store
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+__MACOSX/
+Icon?
+._*
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and output
+*.log
+*.tmp
+*.out
+
+# SSL/TLS key logs
+sslkeys.txt
+
+# Binary or compressed files
+*.zip
+*.tar.gz
+*.gz
+*.7z
+*.rar
+
+# Document files — PDF explicitly allowed
+*.doc
+*.docx
+*.odt
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.csv
+*.numbers
+*.pages
+*.key
+
+# Executables and apps
+*.exe
+*.bin
+*.dll
+*.app
+*.deb
+*.rpm
+
+# Node / Package managers
+node_modules/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+pip-log.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
